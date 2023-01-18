@@ -1,2 +1,2 @@
 # FlutterAppCalculatorAge
-Flutter - Theme and Calclator Age
+Flutter - Theme and Calculator Age
